@@ -202,9 +202,6 @@ span {
   border-bottom: 1px solid white;
   -webkit-animation: span 1s linear 1 0s forwards;
           animation: span 1s linear 1 0s forwards;
-  border: 1px solid white;
-  transition: border 1s;
-  transition-delay: 1s;
 }
 
 @-webkit-keyframes span {

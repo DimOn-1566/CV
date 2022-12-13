@@ -22,43 +22,18 @@ header{
     }
 }
 
-
-
-// .headA-1:hover{
-//   border-bottom: 1px solid white;
-//   animation: a 1s linear 1 0s forwards;
-
- 
-// }
-// @keyframes a {
-//     0%{
-//         border-bottom: 1px solid black;
-    
-//     }
-//     100%{
-//         border-bottom: 1px solid white;
-       
-     
-//     }
-
-// }
-
-
-
-
-
 .portfolio{
    
- display: inline-flex;
- flex-direction: column;
- justify-content: center;
- align-items: center;
- top: 12%;
- width: 200px;
-padding-top: 10%;
-padding-left: 10%;
- transform: translate(-200px, 0);
-animation: portfolio 1s linear 1 0s forwards;
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    top: 12%;
+    width: 200px;
+    padding-top: 10%;
+    padding-left: 10%;
+    transform: translate(-200px, 0);
+    animation: portfolio 1s linear 1 0s forwards;
     
 
 
@@ -206,9 +181,9 @@ span{
 .botton:hover{
     border-bottom: 1px solid white;
     animation: span 1s linear 1 0s forwards;
-    border: 1px solid white;
-    transition: border 1s;
-    transition-delay: 1s;
+   
+    
+
 
 
 }
